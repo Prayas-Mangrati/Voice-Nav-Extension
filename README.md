@@ -64,5 +64,5 @@ The extension works across supported websites and allows users to control tabs, 
 - Groq LLM API (LLaMA 3.1)
 - dotenv, CORS
 
-##Thank you for reading.
+## Thank you for reading.
 
